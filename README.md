@@ -4,7 +4,7 @@
 
   The purpose of this project is to build an interactive portoflio, with different pages, and downloadable links to show off for future employers
 
-  Link to deployed app: https://immense-atoll-95398-dc6d207cef29.herokuapp.com/
+  Link to deployed app: [netlify deployed portfolio](https://whimsical-cat-ab9644.netlify.app/)
   
   Link to Project: [https://russellbooth.github.io/VitePortfolio/](https://github.com/RussellBooth/VitePortfolio)
 
