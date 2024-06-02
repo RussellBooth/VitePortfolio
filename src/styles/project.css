@@ -1,0 +1,21 @@
+.img-ctnr {
+    position: relative;
+    display: contents;
+    color: peachpuff;
+}
+
+.hover-link:link {
+    position: absolute;
+    background-color: transparent;
+    color: peachpuff;
+    text-align: center;
+    justify-content: center;
+}
+
+.hover-link:hover {
+    position: absolute;
+    background-color: transparent;
+    color: peachpuff;
+    text-align: center;
+    justify-content: center;
+}

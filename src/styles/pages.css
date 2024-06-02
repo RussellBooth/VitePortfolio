@@ -1,0 +1,80 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-image: linear-gradient( 
+        rgb(75, 46, 155) 0%,
+        rgb(175, 68, 179) 50%,
+        rgb(75, 46, 155) 100%
+    );
+}
+
+
+img{
+    height: 25%;
+    width: 25%;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+}
+
+p {
+    font-size: 20px;
+    padding: 15px;
+    color: peachpuff;
+    background: transparent;
+}
+
+ul{
+    padding: 10px;
+}
+
+li{
+    color: peachpuff;
+    font-size: 16px;
+}
+
+form{
+    font-size: 16px;
+    color: azure;
+    background-color: azure;
+}
+
+input[type=name], select {
+    font-size: 16px;
+    color: azure;
+    background-color: azure;
+}
+
+input[type=email], select {
+    font-size: 16px;
+    color: azure;
+    background-color: azure;
+}
+
+input[type=message], select {
+    font-size: 16px;
+    color: azure;
+    background-color: azure;
+}
+
+textarea[type-text], select {
+    font-size: 16px;
+    color: azure;
+    background-color: azure;
+}
+
+input[type=text], select {
+    font-size: 16px;
+    color: azure;
+    background-color: azure;
+}
+
+input[type=submit], select {
+    font-size: 16px;
+    color: azure;
+    background-color: azure;
+}
+
+.resume {
+    color: peachpuff;
+}
