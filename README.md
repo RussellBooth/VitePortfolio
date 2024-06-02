@@ -6,7 +6,7 @@
 
   Link to deployed app: https://immense-atoll-95398-dc6d207cef29.herokuapp.com/
   
-  Link to Project: https://russellbooth.github.io/NoteTaker/
+  Link to Project: [https://russellbooth.github.io/NoteTaker/](https://github.com/RussellBooth/VitePortfolio)
 
   ## Table of Contents
 
